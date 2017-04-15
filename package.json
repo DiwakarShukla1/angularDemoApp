@@ -1,0 +1,21 @@
+{
+  "name": "hpcui",
+  "version": "1.0.0",
+  "description": "Hpc Ui in Angular 1.5.9",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.5.9",
+    "angular-ui-router": "^0.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Diwakar",
+    "Pratik",
+    "Kamaljit"
+  ],
+  "author": "Pratik",
+  "license": "ISC"
+}
